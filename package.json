@@ -1,0 +1,22 @@
+{
+  "name": "heisenberg-theme",
+  "publisher": "andycoupe",
+  "displayName": "Heisenberg Theme",
+  "description": "A color theme based on Breaking Bad",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Heisenberg Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Heisenberg Theme-color-theme.json"
+      }
+    ]
+  }
+}
