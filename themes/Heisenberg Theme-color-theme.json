@@ -2,10 +2,11 @@
   "name": "Heisenberg Theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#292929",
+    "editor.background": "#161616",
     "editor.foreground": "#eeffff",
     "activityBarBadge.background": "#00aa39",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "sideBarTitle.foreground": "#bbbbbb",
+    "statusBar.background": "#00571d"
   },
   "tokenColors": [
     {

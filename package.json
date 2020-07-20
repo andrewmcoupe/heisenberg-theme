@@ -2,13 +2,26 @@
   "name": "heisenberg-theme",
   "publisher": "andycoupe",
   "displayName": "Heisenberg Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewmcoupe/heisenberg-theme"
+  },
   "description": "A color theme based on Breaking Bad",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "icon": "blue-crystal.png",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.47.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Heisenberg Theme",
+    "VS Code Dark Theme"
   ],
   "contributes": {
     "themes": [

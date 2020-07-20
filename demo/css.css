@@ -1,0 +1,12 @@
+.heisenberg {
+  display: grid;
+  height: 100%;
+}
+
+#pinkman {
+  height: 50%;
+}
+
+footer {
+  font-size: large;
+}
