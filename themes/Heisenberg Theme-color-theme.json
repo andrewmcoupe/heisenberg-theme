@@ -21,7 +21,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#88ff92"
+        "foreground": "#44ff54"
       }
     },
     {
@@ -62,7 +62,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#7d93e6"
+        "foreground": "#9bbeff"
       }
     },
     {
@@ -131,7 +131,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#b5ffac"
+        "foreground": "#bdfdb5"
       }
     },
     {
