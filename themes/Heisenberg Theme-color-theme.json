@@ -21,7 +21,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#44ff54"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -86,7 +86,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#ffe659"
+        "foreground": "#ffed8a"
       }
     },
     {
@@ -104,6 +104,13 @@
       }
     },
     {
+      "name": "Parameters",
+      "scope": ["variable.parameter", "meta.parameter"],
+      "settings": {
+        "foreground": "#2bff00"
+      }
+    },
+    {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
         "constant.numeric",
@@ -116,7 +123,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#ffc8cb"
       }
     },
     {
@@ -147,14 +154,14 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#ff9a9a"
+        "foreground": "#ff8989"
       }
     },
     {
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#ffe9db"
       }
     },
     {
